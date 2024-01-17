@@ -182,7 +182,7 @@ group by product_line
 order by total_vat desc
 limit 1;
 
--- Fetch each product line and add a column to those product line showing "Good","Bad".Good if its greater than average sales
+
 
 -- Which branch sold more products than average products sold?
 
