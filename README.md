@@ -96,4 +96,16 @@ This dataset contains sales transactions from a three different branches of Walm
 4. Which customer type pays the most in VAT?
 
 
+1. How many unique customer types does the data have?
+2. How many unique payment methods does the data have?
+3. What is the most common customer type?
+4. Which customer type buys the most?
+5. What is the gender of most of the customers?
+6. What is the gender distribution per branch?
+7. Which time of the day do customers give most ratings?
+8. Which time of the day do customers give most ratings per branch?
+9. Which day fo the week has the best avg ratings?
+10. Which day of the week has the best average ratings per branch?
+
+
 
