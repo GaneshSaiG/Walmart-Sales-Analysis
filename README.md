@@ -64,7 +64,7 @@ This dataset contains sales transactions from a three different branches of Walm
 
 2. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
 
-3. 3. **Conclusion:**
+3.  **Conclusion:**
 
 ## Business Questions To Answer
 
