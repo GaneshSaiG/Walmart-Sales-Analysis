@@ -73,3 +73,17 @@ This dataset contains sales transactions from a three different branches of Walm
 1. How many unique cities does the data have?
 2. In which city is each branch?
 
+### Product
+
+1. How many unique product lines does the data have?
+2. What is the most common payment method?
+3. What is the most selling product line?
+4. What is the total revenue by month?
+5. What month had the largest COGS?
+6. What product line had the largest revenue?
+5. What is the city with the largest revenue?
+6. What product line had the largest VAT?
+7. Which branch sold more products than average product sold?
+8. What is the most common product line by gender?
+9. What is the average rating of each product line?
+
